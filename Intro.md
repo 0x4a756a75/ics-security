@@ -1,4 +1,4 @@
-# ICS Penetration Testing
+# Snap7 Penetration Testing
 
 ## Lab Info
 
