@@ -33,5 +33,13 @@ https://www.ericzhang.me/gas-station-atgs-exposed-to-public/
 
 ![Screenshot 2023-04-10 at 12 03 34 PM](https://user-images.githubusercontent.com/96379191/230823487-10211f02-009e-46ba-977d-ed71df82528d.png)
 
+Vendir Manual - https://www.ericzhang.me/wp-content/uploads/2015/01/576013-635.pdf
+
+- I20100 1 In-Tak Inventory Report<br/>
+- I20200 1 In-Tak Delivery Report<br/>
+- I20300 1 In-Tak Leak Detect Report<br/>
+- I20400 1 In-Tak Shift Inventory Report<br/>
+- I20500 1 In-Tak Status Report
+
 ![Screenshot 2023-04-10 at 12 04 28 PM](https://user-images.githubusercontent.com/96379191/230823541-4a3e3c06-6749-4e41-9228-be62ea0113b1.png)
 
