@@ -3,7 +3,7 @@
 ## Lab Info
 
 192.168.1.14 = Kali<br/>
-192.168.1.16 = Ubuntu Server
+192.168.1.19 = Ubuntu Server
 Ubuntu Server MAC Address = 00:1D:59
 
 ## Lab Testing
@@ -24,5 +24,13 @@ We need to change the port number from 161 to 16100
 ``sudo netdiscover -r 192.168.1.0/24 ``
 
 ![Screenshot 2023-04-10 at 2 36 38 PM](https://user-images.githubusercontent.com/96379191/230842268-ffba8f40-1b3d-4a5d-bb9c-9a904bfa16e5.png)
+
+``sudo nmap -Pn 192.168.1.19 -p 1-65535``
+
+![Screenshot 2023-04-10 at 2 42 18 PM](https://user-images.githubusercontent.com/96379191/230843092-bd47a55a-a4a4-4fe1-8dd5-431219b85e1b.png)
+
+
+
+
 
 
