@@ -3,7 +3,8 @@
 ## Lab Info
 
 192.168.1.14 = Kali<br/>
-192.168.1.17 = Ubuntu Server
+192.168.1.17 = Ubuntu Server<br />
+00:00:54 = MAC Address Ubuntu Server
 
 ## Lab Testing
 
