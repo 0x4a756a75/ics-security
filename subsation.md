@@ -12,13 +12,9 @@ Ubuntu Server MAC Address = 00:1D:59
 
 ``nano .local/lib/python3.10/site-packages/conpot/templates/IEC104/snmp/snmp.xml``
 
-``conpot -f --template IEC104``
-
-
-
 <img width="398" alt="Screenshot 2023-04-10 at 2 33 28 PM" src="https://user-images.githubusercontent.com/96379191/230842284-9b888a44-7ceb-4d82-abd6-bbb1b34d1a6f.png">
 
-
+``conpot -f --template IEC104``
 
 ### Kali
 
