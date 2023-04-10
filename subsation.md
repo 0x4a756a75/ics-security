@@ -3,7 +3,7 @@
 ## Lab Info
 
 192.168.1.14 = Kali<br/>
-192.168.1.19 = Ubuntu Server
+192.168.1.19 = Ubuntu Server<br/>
 Ubuntu Server MAC Address = 00:1D:59
 
 ## Lab Testing
@@ -40,6 +40,15 @@ We need to change the port number from 161 to 16100
 ![Screenshot 2023-04-10 at 2 44 42 PM](https://user-images.githubusercontent.com/96379191/230843471-af370d89-13e3-4b22-981f-6153932cfbf9.png)
 
 #### Enumeration
+
+``sudo msfconsole ``
+
+![Screenshot 2023-04-10 at 2 52 02 PM](https://user-images.githubusercontent.com/96379191/230844777-6b3db1ac-75d8-4d8c-90b6-bb925c49aa58.png)
+
+![Screenshot 2023-04-10 at 2 52 15 PM](https://user-images.githubusercontent.com/96379191/230844790-a780f3ab-2119-4462-bb60-7c0e62ec7b47.png)
+
+![Screenshot 2023-04-10 at 2 52 26 PM](https://user-images.githubusercontent.com/96379191/230844797-350ca2e6-ed84-4ec2-96d2-88f59a09fe44.png)
+
 
 #### Triggering the Shutdown
 
