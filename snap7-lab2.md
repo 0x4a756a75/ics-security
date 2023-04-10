@@ -33,3 +33,25 @@ Trying to find the list of script for the snap7 imported prevriously from https:
 
 ![Screenshot 2023-04-10 at 10 01 02 AM](https://user-images.githubusercontent.com/96379191/230810703-90ce7f89-c14a-4ece-8387-74ad726f1979.png)
 
+``cd plcscan ``<br/>
+``sudo python2 plcsan.py 102.168.1.15 ``
+
+![Screenshot 2023-04-10 at 10 12 09 AM](https://user-images.githubusercontent.com/96379191/230811623-4909855c-7c63-4ab7-b812-93f537dd878b.png)
+
+``sudo msfconsole `` <br/>
+``searchsploit Siemens ``
+
+![Screenshot 2023-04-10 at 10 13 14 AM](https://user-images.githubusercontent.com/96379191/230811705-04fdf515-b084-4312-bc97-f7c38120acfe.png)
+
+Copy the file 38964.rb from /usr/share/exploitdb/exploits/hardware/remote to /usr/share/metasploit-framework/modules/exploits/hardware/remote (hardware/remote new folders created)
+
+
+
+
+
+
+
+
+
+
+
