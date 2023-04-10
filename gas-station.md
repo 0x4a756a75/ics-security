@@ -3,7 +3,8 @@
 ## Lab Info
 
 192.168.1.14 = Kali<br/>
-192.168.1.16 = Ubuntu Server
+192.168.1.16 = Ubuntu Server<br />
+00:A0:F6 = MAC Address Ubuntu Server
 
 ## Lab Testing
 
