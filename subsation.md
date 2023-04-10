@@ -52,6 +52,9 @@ We need to change the port number from 161 to 16100
 
 #### Triggering the Shutdown
 
+![Screenshot 2023-04-10 at 2 57 25 PM](https://user-images.githubusercontent.com/96379191/230845495-812cb844-ee3c-494b-b09c-eef10d1a9f2d.png)
+
+
 
 
 
