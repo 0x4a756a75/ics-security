@@ -4,12 +4,13 @@
 
 192.168.1.14 = Kali<br/>
 192.168.1.16 = Ubuntu Server
+Ubuntu Server MAC Address = 
 
 ## Lab Testing
 
 ### Ubuntu Server
 
-``conpot -f --template guardian_ast``
+``conpot -f --template IEC104``
 
 
 ### Kali
