@@ -45,12 +45,11 @@ Trying to find the list of script for the snap7 imported prevriously from https:
 
 Copy the file 38964.rb from /usr/share/exploitdb/exploits/hardware/remote to /usr/share/metasploit-framework/modules/exploits/hardware/remote (hardware/remote new folders created)
 
+![Screenshot 2023-04-10 at 10 29 29 AM](https://user-images.githubusercontent.com/96379191/230813568-532aa2dc-4bbe-4de9-9c05-2f2404ce4ac0.png)
 
+Nothing has changed in the Snap7 status, on Ubuntu Server, so it means the Snap7 is not vulnerable to this exploit
 
-
-
-
-
+<img width="588" alt="Screenshot 2023-04-10 at 10 29 50 AM" src="https://user-images.githubusercontent.com/96379191/230813693-ae93feb5-c723-45a1-84e4-586b7207bdd1.png">
 
 
 
