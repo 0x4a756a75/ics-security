@@ -19,7 +19,7 @@
 | Road Light   | Light  | X (D1-RL) | X (D2-RL) |   |
 | Pedestrian Light   | Light | X (D1-PL) |    |    |
 | Pedestrian Button  | Button  |    | X (D2-PB) |    |
-| SIS  | Button |   |  X (D2-PB) |  |
+| SIS  | Button |  X (D1-PB)  |   |  |
 | Electricity Tower (ET)   | Light  | X (D1-ET) | X (D2-ET) | X (D3-ET) |
 | Japanese Restaurant   | Light  |    |    | X (D3-JE)(D3-JG)(D3-JU)  |
 | 7/11   | Light  |   |    |  X (D3-711E)(D3-711G)(D3-711U) |   
@@ -36,6 +36,7 @@
 | D2 | D2-RL  | Light  | X | X | |   |  || |
 | D1 | D1-PL | Light  |   | X | X|   |  || |
 | D2 | D2-PB  | Button  | X | X | X|   |  || |
+| D1 | D1-PB  | Button  | X | X | X|   |  || |
 | D1 | D1-ET | Light  | X | X |  |   | X || |
 | D2 | D2-ET | Light  | X | X |  |   | X || | 
 | D3 | D3-ET  | Light  | X | X |  |   | X || |
