@@ -65,7 +65,7 @@
 
 ![Raspberry-Pi-GPIO-pinouts-1024x703](https://github.com/0x4a756a75/ics-security/assets/96379191/991123bf-4c29-4009-8d4d-31b34fa13233)
 
-| GPIO  | RPI Pin  | RPI Purple | RPI Orange | Components | Light Color | Resistance (Ohms) | Cable Number / Color |
+| GPIO  | RPI Pin  | RPI Purple | RPI Orange | Components | Light Color | Resis. (Ohms) | Cable #  |
 | ------------- | ------------- | ------------- | ------------- |------------- |------------- |------------- |------------- |
 | GPIO 4 | 7  |   |   |  | | | |
 | GPIO 5  | 29  |  |   || | | |
