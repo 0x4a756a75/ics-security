@@ -13,6 +13,9 @@
 
 ## ICS TKO Village Map
 
+![District 1](https://github.com/0x4a756a75/ics-security/assets/96379191/4779647e-6d3e-4d69-ac69-33007156fd12)
+
+
 | Components | Type | District 1 | District 2 | District 3 | 
 | ------------- | ------------- |  :---:  |  :---:  |  :---:  |
 | Traffic Light  | Light  |  X (D1-TL)  | X (D2-TL) |    |
