@@ -89,3 +89,10 @@ GND Pin - 9, 25, 39, 14, 20, 30 and 34
 
 
 ## Breadboard
+
+
+
+
+
+
+
