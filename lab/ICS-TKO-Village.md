@@ -14,17 +14,43 @@
 ## ICS TKO Village Map
 
 | Components | Type | District 1 | District 2 | District 3 | 
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Traffic Light  | Light  |  X  | X  |    |
-| Road Light   | Light  | X  | X  |   |
-| Pedestrian Light   | Light | X  |    |    |
-| Pedestrian Button  | Button  |    | X  |    |
-| SIS  | Button |   |   | X |
-| Electricity Tower (ET)   | Light  | X  | X  | X  |
-| Japanese Restaurant   | Light  |    |    | X   |
-| 7/11   | Light  |   |    |  X |   
-| Ice Cream  | Light  |  |  |  X  |    
-| McDo  | Light  |   | |  X  |    
+| ------------- | ------------- |  :---:  |  :---:  |  :---:  |
+| Traffic Light  | Light  |  X (D1-TL)  | X (D2-TL) |    |
+| Road Light   | Light  | X (D1-RL) | X (D2-RL) |   |
+| Pedestrian Light   | Light | X (D1-PL) |    |    |
+| Pedestrian Button  | Button  |    | X (D2-PB) |    |
+| SIS  | Button |   |  X (D2-PB) |  |
+| Electricity Tower (ET)   | Light  | X (D1-ET) | X (D2-ET) | X (D3-ET) |
+| Japanese Restaurant   | Light  |    |    | X (D3-JE)(D3-JG)(D3-JU)  |
+| 7/11   | Light  |   |    |  X (D3-711E)(D3-711G)(D3-711U) |   
+| Ice Cream  | Light  |  |  |  X (D3-ICE)(D3-ICG) |    
+| McDo  | Light  |   | |  X (D3-MDG)(D3-MDU) |    
+
+
+
+| District| Components | Type | Red | Black | Blue | Yellow (U)| Green  | Orange (E) | Purple (G)| 
+| ------------- | ------------- | ------------- | :---: | :---: | :---: |:---: |:---: |:---:| :---: |
+| D1 | D1-TL | Light  | X | X | | X |X || |
+| D2 | D2-TL   | Light | X | X | | X |X || |
+| D1 | D1-RL  | Light | X | X | |   |  || |
+| D2 | D2-RL  | Light  | X | X | |   |  || |
+| D1 | D1-PL | Light  |   | X | X|   |  || |
+| D2 | D2-PB  | Button  | X | X | X|   |  || |
+| D1 | D1-ET | Light  | X | X |  |   | X || |
+| D2 | D2-ET | Light  | X | X |  |   | X || | 
+| D3 | D3-ET  | Light  | X | X |  |   | X || |
+| D3 | D3-JE | Light |   | X1 |  |   |   |X| | 
+| D3 | D3-JG  | Light  |   | X1  |  |   |   || X|  
+| D3 | D3-JU | Light |   | X1  |  | X  |   ||  |   
+| D3 | D3-711E | Light |   | X2 |  |   |   |X| |  
+| D3 | D3-711G | Light |   | X2  |  |   |   || X|   
+| D3 | D3-711U | Light |   | X2  |  | X  |   ||  |   
+| D3 | D3-ICE | Light |   | X3  |  |   |   |X| |  
+| D3 | D3-ICG | Light |   |X3  |  |   |   || X|   
+| D3 | D3-MDG | Light |   | X4 |  |   |   || X|  
+| D3 | D3-MDU | Light |   | X4 |  | X  |   ||  |   
+
+
 
 ## Raspberry Pi
 
@@ -58,6 +84,7 @@
 | GPIO 26 | 37 |  |   | 
 | GPIO 27 | 13 |  |   | 
 
+GND Pin - 9, 25, 39, 14, 20, 30 and 34
 
 
 ## Breadboard
