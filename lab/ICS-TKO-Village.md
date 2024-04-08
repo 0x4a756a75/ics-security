@@ -65,25 +65,25 @@
 
 ![Raspberry-Pi-GPIO-pinouts-1024x703](https://github.com/0x4a756a75/ics-security/assets/96379191/991123bf-4c29-4009-8d4d-31b34fa13233)
 
-| GPIO  | RPI Pin  | RPI Purple | RPI Orange |
-| ------------- | ------------- | ------------- | ------------- |
-| GPIO 4 | 7  |   |   | 
-| GPIO 5  | 29  |  |   | 
-| GPIO 6 | 31 |  |   | 
-| GPIO 12  | 32  |  |   | 
-| GPIO 13 | 33|  |   | 
-| GPIO 16 | 36  |  |   | 
-| GPIO 17 | 11 |  |   | 
-| GPIO 18  | 12 |  |   | 
-| GPIO 19 | 35 |  |   | 
-| GPIO 20 | 38 |  |   | 
-| GPIO 21 | 40  |  |   | 
-| GPIO 22 | 15  |  |   | 
-| GPIO 23 | 16 |  |   | 
-| GPIO 24 | 18 |  |   | 
-| GPIO 25 | 22 |  |   | 
-| GPIO 26 | 37 |  |   | 
-| GPIO 27 | 13 |  |   | 
+| GPIO  | RPI Pin  | RPI Purple | RPI Orange | Components | Light Color | Resistance (Ohms) | Cable Number / Color |
+| ------------- | ------------- | ------------- | ------------- |------------- |------------- |------------- |------------- |
+| GPIO 4 | 7  |   |   |  | | | |
+| GPIO 5  | 29  |  |   || | | |
+| GPIO 6 | 31 |  |   | | | | |
+| GPIO 12  | 32  |  |   | | | | |
+| GPIO 13 | 33|  |   | | | | |
+| GPIO 16 | 36  |  |   | | | | |
+| GPIO 17 | 11 |  |   | | | | |
+| GPIO 18  | 12 |  |   | | | | |
+| GPIO 19 | 35 |  |   | | | | |
+| GPIO 20 | 38 |  |   | | | | |
+| GPIO 21 | 40  |  |   | | | | |
+| GPIO 22 | 15  |  |   | | | | |
+| GPIO 23 | 16 |  |   | | | | |
+| GPIO 24 | 18 |  |   | | | | |
+| GPIO 25 | 22 |  |   | | | | |
+| GPIO 26 | 37 |  |   | | | | |
+| GPIO 27 | 13 |  |   | | | | |
 
 GND Pin - 9, 25, 39, 14, 20, 30 and 34
 
