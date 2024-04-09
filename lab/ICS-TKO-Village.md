@@ -64,36 +64,56 @@
 - RPI Orange - OpenPLC = District 3 (7/11 + McDo) + Electric Tower (+ D1-PB)
 
 
-### GPIO
+### RPI GPIO 
 
 ![Raspberry-Pi-GPIO-pinouts-1024x703](https://github.com/0x4a756a75/ics-security/assets/96379191/991123bf-4c29-4009-8d4d-31b34fa13233)
 
+### RPI Purple 
 
-## Breadboard
-
-| GPIO  | RPI Pin  | RPI Purple | RPI Orange | Cable #  | Light Color | Resis. (Ohms) | 
-| ------------- |  ------------- |------------- |------------- |------------- |------------- |------- |
-| GPIO 4 | 7  | D1-TL  |   Green |
-| GPIO 5  | 29  | D1-TL |  Yellow |
-| GPIO 6 | 31 | D1-TL |   Red|
-| GPIO 12  | 32  | D1-RL | Red|
-| GPIO 13 | 33| D1-PL |   Blue|
-| GPIO 16 | 36  | D2-TL |    Green|
-| GPIO 17 | 11 | D2-TL  |  Yellow|
-| GPIO 18  | 12 | D2-TL |    Red|
-| GPIO 19 | 35 | D2-RL |    Red |
-| GPIO 20 | 38 | D2-PB |   Blue |
-| GPIO 21 | 40  | D2-PB |  Red|
-| GPIO 22 | 15  | |   |
-| GPIO 23 | 16 |   |
-| GPIO 24 | 18 |  |   |
-| GPIO 25 | 22 |  |   |
-| GPIO 26 | 37 |  |    |
-| GPIO 27 | 13 |  |   Black |
+| GPIO  | RPI Pin  | RPI Purple | Cable Color  | Light Color | Conf. | Resis. (Ohms) | 
+| ------------- |  ------------- |------------- |------------- |------------- |------------- |------------- |
+| GPIO 4 | 7  | D1-TL  |   Green | Green | 1 - | 150 - 220 
+| GPIO 5  | 29  | D1-TL |  Yellow | Yellow |1 - | 150 - 220 
+| GPIO 6 | 31 | D1-TL |   Red|Red|1 - |150 - 220 
+| GPIO 12  | 32  | D1-RL | Red| White | 2 = | 75 - 100 
+| GPIO 13 | 33| D1-PL |   Blue| Blue |1 - |100 - 150 
+| GPIO 16 | 36  | D2-TL |    Green|Green |1 - |150 - 220 
+| GPIO 17 | 11 | D2-TL  |  Yellow|Yellow |1 - | 150 - 220 
+| GPIO 18  | 12 | D2-TL |    Red| Red|1 - |150 - 220 
+| GPIO 19 | 35 | D2-RL |    Red |White |2 = |75 - 100 
+| GPIO 20 | 38 | D2-PB |   Blue | - |- |
+| GPIO 21 | 40  | D2-PB |  Red| - |- |
+| GPIO 22 | 15  |D3-JE |  Orange | Red | 2 // | 60 - 75 
+| GPIO 23 | 16 |  D3-JG | Purple | White |1 - | 100 - 150 
+| GPIO 24 | 18 | D3-JU | Yellow  | White |1 - | 100 - 150 
+| GPIO 25 | 22 | D3-ICE | Orange  | White |2 = |75 - 100 
+| GPIO 26 | 37 | D3-ICG |   Purple | White |1 - | 100 - 150 
+| GPIO 27 | 13 |  |   Black | - |- |
 
 GND Pin - 9, 25, 39, 14, 20, 30 and 34
+= Serie
+// Parallel 
+- Unique 
 
+### RPI Orange 
 
-
-
+| GPIO  | RPI Pin  | RPI Orange | Cable #  | Light Color | Conf. | Resis. (Ohms) | 
+| ------------- |  ------------- |------------- |------------- |------------- |------------- |------------- |
+| GPIO 4 | 7  | D1-ET | Red   | Red   | 2 // | 60 - 75 
+| GPIO 5  | 29  | D1-ET|   Green| Green | 2 // | 40 - 50 
+| GPIO 6 | 31 |D2-ET | Red  |Red   | 2 // | 60 - 75 
+| GPIO 12  | 32  |D2-ET  | Green| Green | 2 // |40 - 50 
+| GPIO 13 | 33|D3-ET |  Red |Red   |  2 // | 60 - 75 
+| GPIO 16 | 36  | D3-ET  | Green   | Green | 2 // |40 - 50 
+| GPIO 17 | 11 | D1-PB| Blue | - | - | 
+| GPIO 18  | 12 | D3-711E |  Orange  | White | 2 // | 75 - 100 
+| GPIO 19 | 35 | D3-711G |   Purple | White |1 - | 100 - 150 
+| GPIO 20 | 38 | D3-711U |   Yellow | Yellow & Green |2 // |50 - 100 
+| GPIO 21 | 40  | D3-MDG | Purple | White |1 - | 100 - 150 
+| GPIO 22 | 15  | D3-MDU|  Yellow | White |1 - | 100 - 150 
+| GPIO 23 | 16 |   |  |
+| GPIO 24 | 18 |  |   |
+| GPIO 25 | 22 | |   |
+| GPIO 26 | 37 |  |    |
+| GPIO 27 | 13 |  |   Black |- | - | 
 
