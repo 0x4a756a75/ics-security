@@ -14,6 +14,8 @@
 ## ICS TKO Village Map
 
 ![District 1](https://github.com/0x4a756a75/ics-security/assets/96379191/4779647e-6d3e-4d69-ac69-33007156fd12)
+![2](https://github.com/0x4a756a75/ics-security/assets/96379191/708d7d16-0e61-4270-9bac-08f1244bbd33)
+![1](https://github.com/0x4a756a75/ics-security/assets/96379191/2068715b-6fae-4126-820d-f44c6d00098e)
 
 
 | Components | Type | District 1 | District 2 | District 3 | 
