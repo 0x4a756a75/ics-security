@@ -60,23 +60,26 @@
 
 ### Configuration
 
-- RPI Purple - OpenPLC = 
-- RPI Orange - OpenPLC = 
+- RPI Purple - OpenPLC = District 1 + District 2 + District 3 
+- RPI Orange - OpenPLC = Electric Tower & Run Zero
 
 
 ### GPIO
 
 ![Raspberry-Pi-GPIO-pinouts-1024x703](https://github.com/0x4a756a75/ics-security/assets/96379191/991123bf-4c29-4009-8d4d-31b34fa13233)
 
+
+## Breadboard
+
 | GPIO  | RPI Pin  | RPI Purple | RPI Orange | Components | Light Color | Resis. (Ohms) | Cable #  |
-| ------------- | ------------- | ------------- | ------------- |------------- |------------- |------------- |------------- |
-| GPIO 4 | 7  |   |   |  | | | |
-| GPIO 5  | 29  |  |   || | | |
-| GPIO 6 | 31 |  |   | | | | |
-| GPIO 12  | 32  |  |   | | | | |
-| GPIO 13 | 33|  |   | | | | |
-| GPIO 16 | 36  |  |   | | | | |
-| GPIO 17 | 11 |  |   | | | | |
+| ------------- |  ------------- |------------- |------------- |------------- |------------- |------------- |------- |
+| GPIO 4 | 7  | D1-TL  |   |  | | |Green |
+| GPIO 5  | 29  | D1-TL |   || | |Yellow |
+| GPIO 6 | 31 | D1-TL |   | | | | Red|
+| GPIO 12  | 32  | D1-RL |   | | | | Red|
+| GPIO 13 | 33| D1-PL |   | | | | Blue|
+| GPIO 16 | 36  | D1-PB |   | | | |Blue |
+| GPIO 17 | 11 | D1-PB |   | | | |Red |
 | GPIO 18  | 12 |  |   | | | | |
 | GPIO 19 | 35 |  |   | | | | |
 | GPIO 20 | 38 |  |   | | | | |
@@ -89,11 +92,6 @@
 | GPIO 27 | 13 |  |   | | | | |
 
 GND Pin - 9, 25, 39, 14, 20, 30 and 34
-
-
-## Breadboard
-
-
 
 
 
