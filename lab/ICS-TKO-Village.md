@@ -60,8 +60,8 @@
 
 ### Configuration
 
-- RPI Purple - OpenPLC = District 1 + District 2 + District 3 
-- RPI Orange - OpenPLC = Electric Tower & Run Zero
+- RPI Purple - OpenPLC = District 1 + District 2 + District 3 (Japanese Restaurant + Ice Cream)
+- RPI Orange - OpenPLC = District 3 (7/11 + McDo) + Electric Tower (+ D1-PB)
 
 
 ### GPIO
@@ -78,18 +78,18 @@
 | GPIO 6 | 31 | D1-TL |   | | | | Red|
 | GPIO 12  | 32  | D1-RL |   | | | | Red|
 | GPIO 13 | 33| D1-PL |   | | | | Blue|
-| GPIO 16 | 36  | D1-PB |   | | | |Blue |
-| GPIO 17 | 11 | D1-PB |   | | | |Red |
-| GPIO 18  | 12 |  |   | | | | |
-| GPIO 19 | 35 |  |   | | | | |
-| GPIO 20 | 38 |  |   | | | | |
-| GPIO 21 | 40  |  |   | | | | |
-| GPIO 22 | 15  |  |   | | | | |
+| GPIO 16 | 36  | D2-TL |   | | | | Green|
+| GPIO 17 | 11 | D2-TL  |   | | | | Yellow|
+| GPIO 18  | 12 | D2-TL |   | | | | Red|
+| GPIO 19 | 35 | D2-RL |   | | | | Red |
+| GPIO 20 | 38 | D2-PB |   | | | |Blue |
+| GPIO 21 | 40  | D2-PB |   | | | | Red|
+| GPIO 22 | 15  | |   | | | | |
 | GPIO 23 | 16 |  |   | | | | |
 | GPIO 24 | 18 |  |   | | | | |
 | GPIO 25 | 22 |  |   | | | | |
 | GPIO 26 | 37 |  |   | | | | |
-| GPIO 27 | 13 |  |   | | | | |
+| GPIO 27 | 13 |  |   | | | | Black |
 
 GND Pin - 9, 25, 39, 14, 20, 30 and 34
 
