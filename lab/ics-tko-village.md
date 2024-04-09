@@ -94,6 +94,8 @@
 | GPIO 26 | 37 | D3-ICG |   Purple | White |1 - | 220
 | GPIO 27 | 13 |  |   Black | n.a |n.a | n.a |
 
+- Pb GND Pin = 10k Ohms
+
 - GND Pin - 9, 25, 39, 14, 20, 30 and 34
 - =: Serie
 //: Parallel 
