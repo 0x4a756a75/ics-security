@@ -127,6 +127,8 @@
 
 ### Breadboard Configuration
 
+![Screenshot 2024-04-09 at 2 01 03 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/1f4e8485-bd66-45cc-8183-1364f8e01f96)
+
 #### BreadboardRPI Orange
 
 ![Screenshot 2024-04-09 at 1 47 58 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/12ad3744-b915-4b82-a202-037079152258)
@@ -134,4 +136,6 @@
 #### BreadboardRPI Purple
 
 ![Screenshot 2024-04-09 at 1 48 04 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/488f842a-b5c4-42a7-a63c-531072e2845d)
+
+
 
