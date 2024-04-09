@@ -125,12 +125,13 @@
 
 ### Tinkercad Resistance Testing
 
-![Screenshot 2024-04-09 at 8 05 04 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/0697f9f6-0765-4693-8bb4-172553adf485)
+![Screenshot 2024-04-09 at 8 07 05 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/b5248213-d3dd-434b-8341-916cb852e94e)
 
 
 ### Breadboard Configuration
 
-![Screenshot 2024-04-09 at 2 01 03 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/1f4e8485-bd66-45cc-8183-1364f8e01f96)
+![Screenshot 2024-04-09 at 8 05 04 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/0697f9f6-0765-4693-8bb4-172553adf485)
+
 
 #### BreadboardRPI Orange
 
