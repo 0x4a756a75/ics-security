@@ -6,12 +6,14 @@
  * [Raspberry Pi](#RaspberryPi)
  * [Breadboard](#Breadboard)
 
+## ICS TKO Village 
+
 ## Logo
 
 ![2](https://github.com/0x4a756a75/ics-security/assets/96379191/a73eb905-9d5a-41fe-9f7f-78eb0284d09d)
 ![3](https://github.com/0x4a756a75/ics-security/assets/96379191/84354cc4-c53b-4142-b3aa-c5c5e9e05f77)
 
-## ICS TKO Village Map
+## Map
 
 ![District 1](https://github.com/0x4a756a75/ics-security/assets/96379191/4779647e-6d3e-4d69-ac69-33007156fd12)
 ![2](https://github.com/0x4a756a75/ics-security/assets/96379191/708d7d16-0e61-4270-9bac-08f1244bbd33)
@@ -58,7 +60,7 @@
 
 
 
-## Raspberry Pi
+## Technical Setup
 
 ### RPI Usage Configuration
 
@@ -122,4 +124,14 @@
 ### Tinkercad Resistance Testing
 
 ![Screenshot 2024-04-09 at 12 20 31 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/d06cfb51-75bf-4362-b5b6-2e0eaf02a518)
+
+### Breadboard Configuration
+
+#### BreadboardRPI Orange
+
+![Screenshot 2024-04-09 at 1 47 58 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/12ad3744-b915-4b82-a202-037079152258)
+
+#### BreadboardRPI Purple
+
+![Screenshot 2024-04-09 at 1 48 04 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/488f842a-b5c4-42a7-a63c-531072e2845d)
 
