@@ -125,7 +125,8 @@
 
 ### Tinkercad Resistance Testing
 
-![Screenshot 2024-04-09 at 12 20 31 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/d06cfb51-75bf-4362-b5b6-2e0eaf02a518)
+![Screenshot 2024-04-09 at 8 05 04 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/0697f9f6-0765-4693-8bb4-172553adf485)
+
 
 ### Breadboard Configuration
 
