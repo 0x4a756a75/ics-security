@@ -71,25 +71,25 @@
 
 ## Breadboard
 
-| GPIO  | RPI Pin  | RPI Purple | RPI Orange | Components | Light Color | Resis. (Ohms) | Cable #  |
-| ------------- |  ------------- |------------- |------------- |------------- |------------- |------------- |------- |
-| GPIO 4 | 7  | D1-TL  |   |  | | |Green |
-| GPIO 5  | 29  | D1-TL |   || | |Yellow |
-| GPIO 6 | 31 | D1-TL |   | | | | Red|
-| GPIO 12  | 32  | D1-RL |   | | | | Red|
-| GPIO 13 | 33| D1-PL |   | | | | Blue|
-| GPIO 16 | 36  | D2-TL |   | | | | Green|
-| GPIO 17 | 11 | D2-TL  |   | | | | Yellow|
-| GPIO 18  | 12 | D2-TL |   | | | | Red|
-| GPIO 19 | 35 | D2-RL |   | | | | Red |
-| GPIO 20 | 38 | D2-PB |   | | | |Blue |
-| GPIO 21 | 40  | D2-PB |   | | | | Red|
-| GPIO 22 | 15  | |   | | | | |
-| GPIO 23 | 16 |  |   | | | | |
-| GPIO 24 | 18 |  |   | | | | |
-| GPIO 25 | 22 |  |   | | | | |
-| GPIO 26 | 37 |  |   | | | | |
-| GPIO 27 | 13 |  |   | | | | Black |
+| GPIO  | RPI Pin  | RPI Purple | RPI Orange | Cable #  | Light Color | Resis. (Ohms) | 
+| ------------- |  ------------- |------------- |------------- |------------- |------------- |------- |
+| GPIO 4 | 7  | D1-TL  |   Green |
+| GPIO 5  | 29  | D1-TL |  Yellow |
+| GPIO 6 | 31 | D1-TL |   Red|
+| GPIO 12  | 32  | D1-RL | Red|
+| GPIO 13 | 33| D1-PL |   Blue|
+| GPIO 16 | 36  | D2-TL |    Green|
+| GPIO 17 | 11 | D2-TL  |  Yellow|
+| GPIO 18  | 12 | D2-TL |    Red|
+| GPIO 19 | 35 | D2-RL |    Red |
+| GPIO 20 | 38 | D2-PB |   Blue |
+| GPIO 21 | 40  | D2-PB |  Red|
+| GPIO 22 | 15  | |   |
+| GPIO 23 | 16 |   |
+| GPIO 24 | 18 |  |   |
+| GPIO 25 | 22 |  |   |
+| GPIO 26 | 37 |  |    |
+| GPIO 27 | 13 |  |   Black |
 
 GND Pin - 9, 25, 39, 14, 20, 30 and 34
 
