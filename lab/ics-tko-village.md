@@ -74,22 +74,22 @@
 
 | GPIO  | RPI Pin  | RPI Purple | Cable Color  | Light Color | Conf. | Resis. (Ohms) | 
 | ------------- |  ------------- |------------- |------------- |------------- |------------- |------------- |
-| GPIO 4 | 7  | D1-TL  |   Green | Green | 1 - | 150 - 220 
-| GPIO 5  | 29  | D1-TL |  Yellow | Yellow |1 - | 150 - 220 
-| GPIO 6 | 31 | D1-TL |   Red|Red|1 - |150 - 220 
-| GPIO 12  | 32  | D1-RL | Red| White | 2 = | 75 - 100 
-| GPIO 13 | 33| D1-PL |   Blue| Blue |1 - |100 - 150 
-| GPIO 16 | 36  | D2-TL |    Green|Green |1 - |150 - 220 
-| GPIO 17 | 11 | D2-TL  |  Yellow|Yellow |1 - | 150 - 220 
-| GPIO 18  | 12 | D2-TL |    Red| Red|1 - |150 - 220 
-| GPIO 19 | 35 | D2-RL |    Red |White |2 = |75 - 100 
+| GPIO 4 | 7  | D1-TL  |   Green | Green | 1 - | 220 
+| GPIO 5  | 29  | D1-TL |  Yellow | Yellow |1 - | 220 
+| GPIO 6 | 31 | D1-TL |   Red|Red|1 - | 220 
+| GPIO 12  | 32  | D1-RL | Red| White | 2 = | 100 
+| GPIO 13 | 33| D1-PL |   Blue| Blue |1 - |220
+| GPIO 16 | 36  | D2-TL |    Green|Green |1 - | 220 
+| GPIO 17 | 11 | D2-TL  |  Yellow|Yellow |1 - | 220 
+| GPIO 18  | 12 | D2-TL |    Red| Red|1 - | 220 
+| GPIO 19 | 35 | D2-RL |    Red |White |2 = |75  
 | GPIO 20 | 38 | D2-PB |   Blue | n.a |n.a | n.a |
 | GPIO 21 | 40  | D2-PB |  Red| n.a |n.a | n.a |
-| GPIO 22 | 15  |D3-JE |  Orange | Red | 2 // | 60 - 75 
-| GPIO 23 | 16 |  D3-JG | Purple | White |1 - | 100 - 150 
-| GPIO 24 | 18 | D3-JU | Yellow  | White |1 - | 100 - 150 
-| GPIO 25 | 22 | D3-ICE | Orange  | White |2 = |75 - 100 
-| GPIO 26 | 37 | D3-ICG |   Purple | White |1 - | 100 - 150 
+| GPIO 22 | 15  |D3-JE |  Orange | Red | 2 // | 200
+| GPIO 23 | 16 |  D3-JG | Purple | White |1 - | 220
+| GPIO 24 | 18 | D3-JU | Yellow  | White |1 - | 220
+| GPIO 25 | 22 | D3-ICE | Orange  | White |2 = |200 
+| GPIO 26 | 37 | D3-ICG |   Purple | White |1 - | 220
 | GPIO 27 | 13 |  |   Black | n.a |n.a | n.a |
 
 - GND Pin - 9, 25, 39, 14, 20, 30 and 34
@@ -101,18 +101,18 @@
 
 | GPIO  | RPI Pin  | RPI Orange | Cable #  | Light Color | Conf. | Resis. (Ohms) | 
 | ------------- |  ------------- |------------- |------------- |------------- |------------- |------------- |
-| GPIO 4 | 7  | D1-ET | Red   | Red   | 2 // | 60 - 75 
-| GPIO 5  | 29  | D1-ET|   Green| Green | 2 // | 40 - 50 
-| GPIO 6 | 31 |D2-ET | Red  |Red   | 2 // | 60 - 75 
-| GPIO 12  | 32  |D2-ET  | Green| Green | 2 // |40 - 50 
-| GPIO 13 | 33|D3-ET |  Red |Red   |  2 // | 60 - 75 
-| GPIO 16 | 36  | D3-ET  | Green   | Green | 2 // |40 - 50 
+| GPIO 4 | 7  | D1-ET | Red   | Red   | 2 // | 200 
+| GPIO 5  | 29  | D1-ET|   Green| Green | 2 // | 200
+| GPIO 6 | 31 |D2-ET | Red  |Red   | 2 // | 200
+| GPIO 12  | 32  |D2-ET  | Green| Green | 2 // | 200
+| GPIO 13 | 33|D3-ET |  Red |Red   |  2 // | 200
+| GPIO 16 | 36  | D3-ET  | Green   | Green | 2 // |200
 | GPIO 17 | 11 | D1-PB| Blue | n.a |n.a | n.a |
-| GPIO 18  | 12 | D3-711E |  Orange  | White | 2 // | 75 - 100 
-| GPIO 19 | 35 | D3-711G |   Purple | White |1 - | 100 - 150 
-| GPIO 20 | 38 | D3-711U |   Yellow | Yellow & Green |2 // |50 - 100 
-| GPIO 21 | 40  | D3-MDG | Purple | White |1 - | 100 - 150 
-| GPIO 22 | 15  | D3-MDU|  Yellow | White |1 - | 100 - 150 
+| GPIO 18  | 12 | D3-711E |  Orange  | White | 2 // | 200
+| GPIO 19 | 35 | D3-711G |   Purple | White |1 - | 220
+| GPIO 20 | 38 | D3-711U |   Yellow | Yellow & Green |2 // |200
+| GPIO 21 | 40  | D3-MDG | Purple | White |1 - | 200
+| GPIO 22 | 15  | D3-MDU|  Yellow | White |1 - | 200
 | GPIO 23 | 16 |   |  |
 | GPIO 24 | 18 |  |   |
 | GPIO 25 | 22 | |   |
