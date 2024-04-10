@@ -141,5 +141,8 @@
 
 ![Screenshot 2024-04-09 at 1 48 04 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/488f842a-b5c4-42a7-a63c-531072e2845d)
 
+### Open PLC & RPI Addressing
+![wfwefewfew](https://github.com/0x4a756a75/ics-security/assets/96379191/2187f962-b548-4700-a5ea-1a1443fa8879)
+
 
 
