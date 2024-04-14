@@ -133,16 +133,18 @@
 
 ### Breadboard Configuration
 
-![Screenshot 2024-04-09 at 8 05 04 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/0697f9f6-0765-4693-8bb4-172553adf485)
+![Screenshot 2024-04-14 at 10 26 32 AM](https://github.com/0x4a756a75/ics-security/assets/96379191/f1374ee4-02d9-4770-8483-b01ed3dd2283)
 
 
 #### BreadboardRPI Orange
 
-![Screenshot 2024-04-09 at 1 47 58 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/12ad3744-b915-4b82-a202-037079152258)
+![Screenshot 2024-04-14 at 10 27 07 AM](https://github.com/0x4a756a75/ics-security/assets/96379191/24a4aea7-9866-48e1-ac91-a5a6435d3c90)
+
 
 #### BreadboardRPI Purple
 
-![Screenshot 2024-04-09 at 1 48 04 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/488f842a-b5c4-42a7-a63c-531072e2845d)
+![Screenshot 2024-04-14 at 10 27 22 AM](https://github.com/0x4a756a75/ics-security/assets/96379191/e929917f-52df-492d-8ff3-8876180090cb)
+
 
 ### Open PLC & RPI Addressing
 ![wfwefewfew](https://github.com/0x4a756a75/ics-security/assets/96379191/2187f962-b548-4700-a5ea-1a1443fa8879)
