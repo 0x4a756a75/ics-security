@@ -154,7 +154,8 @@
 
 ### Cable Connectivity
 
-![Screenshot 2024-04-13 at 4 58 55 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/72ee3f27-170e-4fc9-a164-a08332e4947c)
+![Screenshot 2024-04-14 at 11 31 20 AM](https://github.com/0x4a756a75/ics-security/assets/96379191/3491902a-700a-493c-b4ac-74357f1c7805)
+
 
 
 | #  | Outputs (1-20) |  OpenPLC # | - | # |Outputs (1-20) |OpenPLC # |
@@ -174,9 +175,9 @@
 | 13 |D3-JG  |Breadboard RPI P O38 |- | 33 |D3-ICG| Breadboard RPI P O40
 | 14 |D2-ET Green |Breadboard RPI P  O18 |- | 34 |D1-ET Red| Breadboard RPI O O8
 | 15 | D3-JU |Breadboard RPI P O38|- | 35 |D3-ET Green|Breadboard RPI O O24
-| 16 |D2-PB  |Breadboard RPI P |- | 36 |D1-RL| Breadboard RPI P O18 
+| 16 |D2-PB (Red) |Breadboard RPI P I03 |- | 36 |D1-RL| Breadboard RPI P O18 
 | 17 |D3-JE  |Breadboard RPI P O38|- | 37 |D3-ET Red| Breadboard RPI O O22
 | 18 | D2-RL |Breadboard RPI P O36|- | 38 |D1-PL| Breadboard RPI P O22
 | 19 |  ||- | 39 ||
-| 20 |  ||- | 40 ||
+| 20 | D2-PB (Blue) |Breadboard RPI P I05|- | 40 ||
 
