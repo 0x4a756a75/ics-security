@@ -164,19 +164,19 @@
 | 3 |  ||- | 23 |D1 Ground| 
 | 4 |  ||- | 24 ||
 | 5 |  ||- | 25 |D3 Ground| 
-| 6 | D2-TL - Green  |Breadboard RPI P  |- | 26 |D1-TL Green| Breadboard RPI P 
-| 7 | D3-711U |Breadboard RPI O  |- | 27 |D3-ICE| Breadboard RPI P 
-| 8 | D2-TL Yellow | Breadboard RPI P  |- | 28 |D1-TL Yellow| Breadboard RPI P  
-| 9 |D3-711E   |Breadboard RPI O |- | 29 |D3-MDG| Breadboard RPI O 
-| 10 |D2-TL Red  |Breadboard RPI P  |- | 30|D1-TL Red | Breadboard RPI P  
-| 11 | D3-711G |Breadboard RPI O |- | 31 |D3-MDU| Breadboard RPI O 
-| 12 |D2-ET Red  | Breadboard RPI P  |- | 32 |D1-ET Green|Breadboard RPI O  
-| 13 |D3-JG  |Breadboard RPI P |- | 33 |D3-ICG| Breadboard RPI P  
-| 14 |D2-ET Green |Breadboard RPI P   |- | 34 |D1-ET Red| Breadboard RPI O  
-| 15 | D3-JU |Breadboard RPI P |- | 35 |D3-ET Green|Breadboard RPI O 
-| 16 |D2-PB  |Breadboard RPI P |- | 36 |D1-RL| Breadboard RPI P 
-| 17 |D3-JE  |Breadboard RPI P |- | 37 |D3-ET Red| Breadboard RPI O  
-| 18 | D2-RL |Breadboard RPI P |- | 38 |D1-PL| Breadboard RPI P  
+| 6 | D2-TL - Green  |Breadboard RPI P O24 |- | 26 |D1-TL Green| Breadboard RPI P O8
+| 7 | D3-711U |Breadboard RPI O O26 |- | 27 |D3-ICE| Breadboard RPI P O40
+| 8 | D2-TL Yellow | Breadboard RPI P O26  |- | 28 |D1-TL Yellow| Breadboard RPI P O10
+| 9 |D3-711E   |Breadboard RPI O O26|- | 29 |D3-MDG| Breadboard RPI O O32
+| 10 |D2-TL Red  |Breadboard RPI P O32 |- | 30|D1-TL Red | Breadboard RPI P O16  
+| 11 | D3-711G |Breadboard RPI O O26 |- | 31 |D3-MDU| Breadboard RPI O O32
+| 12 |D2-ET Red  | Breadboard RPI P O18 |- | 32 |D1-ET Green|Breadboard RPI O O10
+| 13 |D3-JG  |Breadboard RPI P O38 |- | 33 |D3-ICG| Breadboard RPI P O40
+| 14 |D2-ET Green |Breadboard RPI P  O18 |- | 34 |D1-ET Red| Breadboard RPI O O8
+| 15 | D3-JU |Breadboard RPI P O38|- | 35 |D3-ET Green|Breadboard RPI O O24
+| 16 |D2-PB  |Breadboard RPI P |- | 36 |D1-RL| Breadboard RPI P O18 
+| 17 |D3-JE  |Breadboard RPI P O38|- | 37 |D3-ET Red| Breadboard RPI O O22
+| 18 | D2-RL |Breadboard RPI P O36|- | 38 |D1-PL| Breadboard RPI P O22
 | 19 |  ||- | 39 ||
 | 20 |  ||- | 40 ||
 
