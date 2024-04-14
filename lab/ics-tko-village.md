@@ -133,7 +133,8 @@
 
 ### Breadboard Configuration
 
-![Uploading Screenshot 2024-04-14 at 11.34.45 AM.png…]()
+![Screenshot 2024-04-14 at 11 34 45 AM](https://github.com/0x4a756a75/ics-security/assets/96379191/44494e98-321d-4597-a92c-805f4cf530b6)
+
 
 
 ### Open PLC & RPI Addressing
