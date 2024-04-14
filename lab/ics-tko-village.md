@@ -92,7 +92,7 @@
 | GPIO 22 | 15  |D3-JE |  Orange | Red | 2 // | 200
 | GPIO 23 | 16 |  D3-JG | Purple | White |1 - | 220
 | GPIO 24 | 18 | D3-JU | Yellow  | White |1 - | 220
-| GPIO 25 | 22 | D3-ICE | Orange  | White |2 = |200 
+| GPIO 25 | 22 | D3-ICE | Orange  | White |2 = |100 
 | GPIO 26 | 37 | D3-ICG |   Purple | White |1 - | 220
 | GPIO 27 | 13 |  |   Black | n.a |n.a | n.a |
 
@@ -118,8 +118,8 @@
 | GPIO 19  | 12 | D3-711E |  Orange  | White | 2 // | 200
 | GPIO 20 | 35 | D3-711G |   Purple | White |1 - | 220
 | GPIO 21 | 38 | D3-711U |   Yellow | Yellow & Green |2 // |200
-| GPIO 22 | 40  | D3-MDG | Purple | White |1 - | 200
-| GPIO 23 | 15  | D3-MDU|  Yellow | White |1 - | 200
+| GPIO 22 | 40  | D3-MDG | Purple | White |1 - | 220
+| GPIO 23 | 15  | D3-MDU|  Yellow | White |1 - | 220
 | GPIO 24 | 16 |   |  |
 | GPIO 25 | 18 |  |   |
 | GPIO 26 | 22 | |   |
