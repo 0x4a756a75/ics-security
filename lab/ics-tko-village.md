@@ -86,7 +86,7 @@
 | GPIO 16 | 36  | D2-TL |    Green|Green |1 - | 220 
 | GPIO 17 | 11 | D2-TL  |  Yellow|Yellow |1 - | 220 
 | GPIO 18  | 12 | D2-TL |    Red| Red|1 - | 220 
-| GPIO 19 | 35 | D2-RL |    Red |White |2 = |75  
+| GPIO 19 | 35 | D2-RL |    Red |White |2 = |100  
 | GPIO 20 | 38 | D2-PB |   Blue | n.a |n.a | n.a | Pedestrians Ligh |
 | GPIO 21 | 40  | D2-PB |  Red| n.a |n.a | n.a | Pedestrians Ligh |
 | GPIO 22 | 15  |D3-JE |  Orange | Red | 2 // | 200
