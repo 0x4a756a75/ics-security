@@ -160,13 +160,13 @@
 | 9 |D3-711E   |Breadboard RPI O O26|- | 29 |D3-MDG| Breadboard RPI O O32
 | 10 |D2-TL Red  |Breadboard RPI P O32 |- | 30|D1-TL Red | Breadboard RPI P O16  
 | 11 | D3-711G |Breadboard RPI O O26 |- | 31 |D3-MDU| Breadboard RPI O O32
-| 12 |D2-ET Red  | Breadboard RPI P O18 |- | 32 |D1-ET Green|Breadboard RPI O O10
+| 12 |D2-RL  | Breadboard RPI P O18 |- | 32 |D1-ET Green|Breadboard RPI O O10
 | 13 |D3-JG  |Breadboard RPI P O38 |- | 33 |D3-ICG| Breadboard RPI P O40
 | 14 |D2-ET Green |Breadboard RPI P  O18 |- | 34 |D1-ET Red| Breadboard RPI O O8
 | 15 | D3-JU |Breadboard RPI P O38|- | 35 |D3-ET Green|Breadboard RPI O O24
 | 16 |D2-PB (Red) |Breadboard RPI P I03 |- | 36 |D1-RL| Breadboard RPI P O18 
 | 17 |D3-JE  |Breadboard RPI P O38|- | 37 |D3-ET Red| Breadboard RPI O O22
-| 18 | D2-RL |Breadboard RPI P O36|- | 38 |D1-PL| Breadboard RPI P O22
+| 18 | D2-ET Red|Breadboard RPI P O36|- | 38 |D1-PL| Breadboard RPI P O22
 | 19 |  ||- | 39 ||
 | 20 | D2-PB (Blue) |Breadboard RPI P I05|- | 40 ||
 
