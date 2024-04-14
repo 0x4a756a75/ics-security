@@ -157,24 +157,24 @@
 
 | #  | Outputs (1-20) |  OpenPLC # | - | # |Outputs (1-20) |OpenPLC # |
 | ------------- |  ------------- |------------- |------------- |------------- |------------- |------------- |
-| 1 |  || - | 21 |D2 Ground| Breadboard RPI P 35
+| 1 |  || - | 21 |D2 Ground| 
 | 2 |  ||- | 22 ||
-| 3 |  ||- | 23 |D1 Ground| Breadboard RPI P 35
+| 3 |  ||- | 23 |D1 Ground| 
 | 4 |  ||- | 24 ||
-| 5 |  ||- | 25 |D3 Ground| Breadboard RPI O 35
-| 6 | D2-TL - Green  |Breadboard RPI P 15 |- | 26 |D1-TL Green| Breadboard RPI P 3
-| 7 | D3-711U |Breadboard RPI O 29 |- | 27 |D3-ICE| Breadboard RPI P 33
-| 8 | D2-TL Yellow | Breadboard RPI P 19 |- | 28 |D1-TL Yellow| Breadboard RPI P 5 
-| 9 |D3-711E   |Breadboard RPI O 29|- | 29 |D3-MDG| Breadboard RPI O 21
-| 10 |D2-TL Red  |Breadboard RPI P 21 |- | 30|D1-TL Red | Breadboard RPI P 7 
-| 11 | D3-711G |Breadboard RPI O 29|- | 31 |D3-MDU| Breadboard RPI O 21
-| 12 |D2-ET Red  | Breadboard RPI P 7 |- | 32 |D1-ET Green|Breadboard RPI O 5 
-| 13 |D3-JG  |Breadboard RPI P 31|- | 33 |D3-ICG| Breadboard RPI P 33 
-| 14 |D2-ET Green |Breadboard RPI P 11  |- | 34 |D1-ET Red| Breadboard RPI O 3 
-| 15 | D3-JU |Breadboard RPI P 31|- | 35 |D3-ET Green|Breadboard RPI O 15
-| 16 |D2-PB  |Breadboard RPI P 29|- | 36 |D1-RL| Breadboard RPI P 11
-| 17 |D3-JE  |Breadboard RPI P 31|- | 37 |D3-ET Red| Breadboard RPI O 13 
-| 18 | D2-RL |Breadboard RPI P 23|- | 38 |D1-PL| Breadboard RPI P 13 
+| 5 |  ||- | 25 |D3 Ground| 
+| 6 | D2-TL - Green  |Breadboard RPI P  |- | 26 |D1-TL Green| Breadboard RPI P 
+| 7 | D3-711U |Breadboard RPI O  |- | 27 |D3-ICE| Breadboard RPI P 
+| 8 | D2-TL Yellow | Breadboard RPI P  |- | 28 |D1-TL Yellow| Breadboard RPI P  
+| 9 |D3-711E   |Breadboard RPI O |- | 29 |D3-MDG| Breadboard RPI O 
+| 10 |D2-TL Red  |Breadboard RPI P  |- | 30|D1-TL Red | Breadboard RPI P  
+| 11 | D3-711G |Breadboard RPI O |- | 31 |D3-MDU| Breadboard RPI O 
+| 12 |D2-ET Red  | Breadboard RPI P  |- | 32 |D1-ET Green|Breadboard RPI O  
+| 13 |D3-JG  |Breadboard RPI P |- | 33 |D3-ICG| Breadboard RPI P  
+| 14 |D2-ET Green |Breadboard RPI P   |- | 34 |D1-ET Red| Breadboard RPI O  
+| 15 | D3-JU |Breadboard RPI P |- | 35 |D3-ET Green|Breadboard RPI O 
+| 16 |D2-PB  |Breadboard RPI P |- | 36 |D1-RL| Breadboard RPI P 
+| 17 |D3-JE  |Breadboard RPI P |- | 37 |D3-ET Red| Breadboard RPI O  
+| 18 | D2-RL |Breadboard RPI P |- | 38 |D1-PL| Breadboard RPI P  
 | 19 |  ||- | 39 ||
 | 20 |  ||- | 40 ||
 
