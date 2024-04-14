@@ -114,15 +114,15 @@
 | GPIO 13 | 33|D3-ET |  Red |Red   |  2 // | 200
 | GPIO 16 | 36  | D3-ET  | Green   | Green | 2 // |200
 | GPIO 17 | 11 | D1-PB| Blue | n.a |n.a | n.a | SIS |
-| GPIO 18 | 11 | D1-PB| Red | n.a |n.a | n.a |SIS |
-| GPIO 19  | 12 | D3-711E |  Orange  | White | 2 // | 200
-| GPIO 20 | 35 | D3-711G |   Purple | White |1 - | 220
-| GPIO 21 | 38 | D3-711U |   Yellow | Yellow & Green |2 // |200
-| GPIO 22 | 40  | D3-MDG | Purple | White |1 - | 220
-| GPIO 23 | 15  | D3-MDU|  Yellow | White |1 - | 220
-| GPIO 24 | 16 |   |  |
-| GPIO 25 | 18 |  |   |
-| GPIO 26 | 22 | |   |
+| GPIO 18 | 12 | D1-PB| Red | n.a |n.a | n.a |SIS |
+| GPIO 19  | 35 | D3-711E |  Orange  | White | 2 // | 200
+| GPIO 20 | 38 | D3-711G |   Purple | White |1 - | 220
+| GPIO 21 | 40 | D3-711U |   Yellow | Yellow & Green |2 // |200
+| GPIO 22 | 15  | D3-MDG | Purple | White |1 - | 220
+| GPIO 23 | 16  | D3-MDU|  Yellow | White |1 - | 220
+| GPIO 24 | 18 |   |  |
+| GPIO 25 | 22 |  |   |
+| GPIO 26 | 37 | |   |
 | GPIO 27 | 13 |  |   Black |n.a |n.a | n.a |
 
 
