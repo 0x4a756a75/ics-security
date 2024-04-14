@@ -168,9 +168,9 @@
 | 9 |D3-711E   |Breadboard RPI O 29|- | 29 |D3-MDG| Breadboard RPI O 21
 | 10 |D2-TL Red  |Breadboard RPI P 21 |- | 30|D1-TL Red | Breadboard RPI P 7 
 | 11 | D3-711G |Breadboard RPI O 29|- | 31 |D3-MDU| Breadboard RPI O 21
-| 12 |D2-ET Red  | Breadboard RPI 7 |- | 32 |D1-ET Green|Breadboard RPI O 5 
+| 12 |D2-ET Red  | Breadboard RPI P 7 |- | 32 |D1-ET Green|Breadboard RPI O 5 
 | 13 |D3-JG  |Breadboard RPI P 31|- | 33 |D3-ICG| Breadboard RPI P 33 
-| 14 |D2-ET Green |Breadboard RPI 11  |- | 34 |D1-ET Red| Breadboard RPI O 3 
+| 14 |D2-ET Green |Breadboard RPI P 11  |- | 34 |D1-ET Red| Breadboard RPI O 3 
 | 15 | D3-JU |Breadboard RPI P 31|- | 35 |D3-ET Green|Breadboard RPI O 15
 | 16 |D2-PB  |Breadboard RPI P 29|- | 36 |D1-RL| Breadboard RPI P 11
 | 17 |D3-JE  |Breadboard RPI P 31|- | 37 |D3-ET Red| Breadboard RPI O 13 
