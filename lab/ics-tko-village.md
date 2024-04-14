@@ -134,7 +134,6 @@
 ### Breadboard Configuration
 
 
-![Screenshot 2024-04-14 at 10 45 50 AM](https://github.com/0x4a756a75/ics-security/assets/96379191/a60d65d5-ca03-4268-8730-6029f8a01b5a)
 
 
 #### BreadboardRPI Orange
