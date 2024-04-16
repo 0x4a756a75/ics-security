@@ -143,7 +143,7 @@
 
 ### Cable Connectivity
 
-![Screenshot 2024-04-16 at 10 22 08 AM](https://github.com/0x4a756a75/ics-security/assets/96379191/8b298f99-8970-4ff2-a9fa-891fee5eaefb)
+![Screenshot 2024-04-16 at 10 41 00 AM](https://github.com/0x4a756a75/ics-security/assets/96379191/6dd10da5-412b-4c69-bd83-a05fb21bfb8b)
 
 
 
