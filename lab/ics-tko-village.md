@@ -133,7 +133,7 @@
 
 ### Breadboard Configuration
 
-![Screenshot 2024-04-14 at 11 34 45 AM](https://github.com/0x4a756a75/ics-security/assets/96379191/44494e98-321d-4597-a92c-805f4cf530b6)
+![Screenshot 2024-04-16 at 12 05 12 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/e3e76c09-9035-4e21-b04c-78b4e1ad699e)
 
 
 
