@@ -11,7 +11,6 @@
 ## Logo
 
 ![2](https://github.com/0x4a756a75/ics-security/assets/96379191/a73eb905-9d5a-41fe-9f7f-78eb0284d09d)
-![3](https://github.com/0x4a756a75/ics-security/assets/96379191/84354cc4-c53b-4142-b3aa-c5c5e9e05f77)
 ![ICS Cyber Ninja](https://github.com/0x4a756a75/ics-security/assets/96379191/6b2c19c3-6620-4fe7-a782-13c01541f0ff)
 
 
@@ -113,16 +112,16 @@
 | GPIO O18  |   |D2-ET  | Green| Green | 2 // | 200
 | GPIO O22 | |D3-ET |  Red |Red   |  2 // | 200
 | GPIO O24 |   | D3-ET  | Green   | Green | 2 // |200
-| GPIO  |  | D1-PB| Blue | n.a |n.a | n.a | SIS |
-| GPIO  |  | D1-PB| Red | n.a |n.a | n.a |SIS |
+| -  |  | |  |  | |  | D1-PB (Blue) SIS |
+| -  |  | |  |  | |  |D1-PB (Red) SIS |
 | GPIO  O26 |  | D3-711U |   Yellow | Yellow & Green |2 // |200
 | GPIO O26 |  | D3-711E |  Orange  | White | 2 // | 200
 | GPIO O26 |  | D3-711G |   Purple | White |1 - | 220 
 | GPIO O32 |   | D3-JE |  Orange | Red | 2 // | 200 
 | GPIO O32 |   | D3-JU | Yellow  | White |1 - | 220 
 | GPIO O32 |   |D3-JE |  Orange | Red | 2 // | 200 
-|   |  |    |  |  | |   
-|   |    |  |   |  | |  
+| -  |  |    |  |  | |   
+| - |    |  |   |  | |  
 | GPIO  |  |  |   Black |n.a |n.a | n.a |
 
 
@@ -133,7 +132,8 @@
 
 ### Breadboard Configuration
 
-![Screenshot 2024-04-16 at 12 05 12 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/e3e76c09-9035-4e21-b04c-78b4e1ad699e)
+
+![Screenshot 2024-04-16 at 12 27 40 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/45d7362d-dcff-401e-a038-13b6f6422e60)
 
 
 
