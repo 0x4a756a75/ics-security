@@ -132,9 +132,7 @@
 
 ### Breadboard Configuration
 
-
-![Screenshot 2024-04-16 at 12 27 40 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/45d7362d-dcff-401e-a038-13b6f6422e60)
-
+![Screenshot 2024-04-17 at 1 45 11 PM](https://github.com/0x4a756a75/ics-security/assets/96379191/15f2ee18-d135-40b1-8818-2c0389e8ea14)
 
 
 ### Open PLC & RPI Addressing
