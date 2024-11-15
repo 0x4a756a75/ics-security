@@ -169,3 +169,15 @@
 | 19 |  ||- | 39 ||
 | 20 | D2-PB (Blue) |Breadboard RPI P I05|- | 40 ||
 
+
+## Hacking
+
+``sudo netdiscover -r 192.168.1.0/24 ``
+
+![Screenshot 2024-11-15 at 3 54 29 PM](https://github.com/user-attachments/assets/c8ebf600-d787-4503-85bc-1730af3276b9)
+
+``sudo nmap 192.168.1.14 -p 1-65535 ``
+
+![Screenshot 2024-11-15 at 4 15 30 PM](https://github.com/user-attachments/assets/c69257d4-fefa-4f30-9469-c63587878c25)
+
+![Screenshot 2024-11-15 at 5 36 34 PM](https://github.com/user-attachments/assets/de0a4ba7-d37a-441e-acab-8c3828281e3b)
